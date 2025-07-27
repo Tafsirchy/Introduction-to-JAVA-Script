@@ -14,5 +14,5 @@ var bananaPrice = parseFloat("50.5");
 var first = 0.2;
 var second = 0.2;
 var total = first + second;
-console.log(total);
+console.log(total.toFixed(1));
 
